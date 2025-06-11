@@ -1,4 +1,4 @@
-module github.com/tark1998/apns2@live-activity-channels
+module github.com/tark1998/apns2
 
 go 1.15
 
